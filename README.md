@@ -16,7 +16,7 @@ P.S. My repository is a bit empty — I usually spend most of my coding time at 
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=KatrinTor&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=katrinio&style=flat-square&color=blue" alt=""/>
 
 
   
@@ -34,9 +34,9 @@ P.S. My repository is a bit empty — I usually spend most of my coding time at 
   </div>
   
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KatrinTor&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katrinio&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatrinTor)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katrinio)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
