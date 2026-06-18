@@ -1,55 +1,54 @@
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/iDOIj5JxyZGarf6v6G/giphy.gif" width="100"/>
 
   ### Hi, I'm Katrin 👋
 
-Python developer focused on backend automation, CI/CD, and quality engineering.
+  QA automation engineer by day. Python developer by habit.<br/>
+  I build test infrastructure at work and automation tools in my spare time.<br/>
+  I like systems that are reliable, maintainable, and do exactly what they promise.
 
-I build automated systems, design test infrastructure, and work on document automation tools. Most of my coding happens at work, but I also build personal projects to explore new ideas and grow as an engineer 📎
+  <br/>
 
-  <div id="badges">
-    <a href="http://linkedin.com/in/katrin-torsunova">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  <a href="http://linkedin.com/in/katrin-torsunova">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=katrinio&style=flat-square&color=blue" alt=""/>
-
-  ---
-
-  ### 🛠️ Languages and Tools
-
-  <div>
-    <img src="./icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="./icons/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-    <img src="./icons/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="./icons/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
-    <img src="./icons/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-    <img src="./icons/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="./icons/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
-    <img src="./icons/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="./icons/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
-  </div>
 
 </div>
 
 ---
 
-### 🚀 Featured Project
+### 🛠️ Stack
 
-#### [Finpipe](https://github.com/katrinio/finpipe)
+<div>
+  <img src="./icons/python-original.svg" title="Python" alt="Python" width="36" height="36"/>&nbsp;
+  <img src="./icons/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="36" height="36"/>&nbsp;
+  <img src="./icons/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="36" height="36"/>&nbsp;
+  <img src="./icons/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="36" height="36"/>&nbsp;
+  <img src="./icons/pytest-original.svg" title="Pytest" alt="Pytest" width="36" height="36"/>&nbsp;
+  <img src="./icons/docker-plain.svg" title="Docker" alt="Docker" width="36" height="36"/>&nbsp;
+  <img src="./icons/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="36" height="36"/>&nbsp;
+  <img src="./icons/git-original.svg" title="Git" alt="Git" width="36" height="36"/>&nbsp;
+</div>
 
-Personal document automation assistant built with Python and Telegram.
+---
 
-Automates the monthly document workflow: fetches bank emails via Gmail API, generates Salary Invoice, Bank Confirmation and Conversion Order, applies electronic signature, and sends documents back.
+### 🚀 Finpipe *(personal project)*
 
-| Area | Details |
-|---|---|
-| Language | Python 3.14 |
-| Interface | Telegram Bot |
-| Backend | FastAPI (OAuth callback) |
-| Storage | PostgreSQL + SQLAlchemy + Alembic |
-| Auth | Gmail OAuth 2.0 |
-| Documents | ReportLab, python-docx, LibreOffice |
-| CI/CD | GitHub Actions, Docker |
-| Tests | Pytest (unit + integration) |
+I was spending too much time on the same document routine every month. So I automated it.
+
+Finpipe connects to Gmail, picks up incoming bank emails, generates the required financial documents — Invoice, Bank Confirmation, Conversion Order — signs them, and sends everything back. Runs on a VPS, controlled via Telegram.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Gmail API` `Docker` `GitHub Actions` `Pytest`
+
+---
+
+### 🌱 Currently into
+
+- automation that runs without babysitting
+- backend systems that are boring in the best way
+- writing tests that actually catch real bugs
+- making deploys unremarkable
