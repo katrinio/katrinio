@@ -5,11 +5,11 @@
   ### Hi there 👋
 
 
-I'm a QA Automation Engineer with about 3 years of experience working with Python.
+QA Automation Engineer focused on Python-based test automation, CI/CD and quality engineering.
 
-My interests include test automation, backend development, CI/CD, and building reliable software delivery processes.
+I design and maintain automated test solutions for web and API applications, contribute to delivery pipelines, and enjoy building internal tools and personal projects.
 
-Most of my coding happens at work, but from time to time I also enjoy building things for fun and for fun and skill development 📎
+Most of my coding happens at work, but from time to time I also enjoy building things for fun and skill development 📎
   
   
   <div id="badges">
@@ -33,11 +33,31 @@ Most of my coding happens at work, but from time to time I also enjoy building t
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   </div>
-  
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katrinio&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
   
 </div>
 
+### 🌱 Currently Working On
 
+- FinPipe — personal document automation platform
+- Python backend development
+- CI/CD and automation tooling
+- Improving software quality processes
 
+### 🚀 Featured Project
+
+#### FinPipe
+
+Personal document automation assistant built with Python and Telegram.
+
+Features:
+- Invoice generation
+- Bank document generation
+- Gmail integration
+- PostgreSQL storage
+- Profile management
+- PDF processing
+- GitHub Actions CI
+
+Tech stack:
+Python, PostgreSQL, SQLAlchemy, Alembic, Docker, Gmail API, ReportLab, Pytest.
