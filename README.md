@@ -13,8 +13,7 @@
   <a href="http://linkedin.com/in/katrin-torsunova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  &nbsp;
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=katrinio&style=flat-square&color=blue" alt=""/>
 
 </div>
