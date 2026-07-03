@@ -42,9 +42,9 @@ I enjoy building small tools that solve real problems.
 
 ---
 
-### 🌱 Currently into
+### 🔬 Currently exploring
 
-- building small tools that stay out of the way
-- backend systems that are boring in the best way
+- building small command-line tools
+- self-hosting and personal infrastructure
 - automation that runs without babysitting
 - thoughtful UX for developer tools
