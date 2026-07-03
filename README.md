@@ -20,9 +20,10 @@
 
 I enjoy building small tools that solve real problems.
 
-- **Echo** — a keyboard-first journal
-- **Finpipe** — accounting workflow automation
-- **dotfiles** — reproducible personal development environment
+- **Echo** — a keyboard-first journal · [repo](https://github.com/katrinio/echo_)
+- **Finpipe** — accounting workflow automation · [repo](https://github.com/katrinio/finpipe)
+- **roll** — a CLI for organizing a film photography archive · [repo](https://github.com/katrinio/roll)
+- **dotfiles** — reproducible personal development environment · [repo](https://github.com/katrinio/dotfiles)
 
 ---
 
