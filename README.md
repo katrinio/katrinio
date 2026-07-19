@@ -6,7 +6,7 @@
 
   QA automation engineer by day. Python developer by habit.<br/>
   I build test infrastructure at work and automation tools in my spare time.<br/>
-  I like building systems that are reliable, maintainable, and do exactly what they promise.
+  I enjoy building practical software that stays simple as it grows.
 
   <a href="http://linkedin.com/in/katrin-torsunova">
     <img src="./icons/linkedin-badge.svg" title="LinkedIn" alt="LinkedIn" height="25" >
@@ -21,9 +21,12 @@
 I enjoy building small tools that solve real problems.
 
 - **Echo** — a keyboard-first journal · [repo](https://github.com/katrinio/echo_)
-- **Finpipe** — accounting workflow automation · [repo](https://github.com/katrinio/finpipe)
+- **Finpipe** — accounting workflow automation ·  [repo](https://github.com/katrinio/finpipe)
 - **roll** — a CLI for organizing a film photography archive · [repo](https://github.com/katrinio/roll)
-- **dotfiles** — reproducible personal development environment · [repo](https://github.com/katrinio/dotfiles)
+- **Træct** — a self-hosted weekly attention allocation tracker
+- **Registry** — an engineering community registry
+- **dotfiles** — a curated personal development environment
+
 
 ---
 
@@ -44,7 +47,7 @@ I enjoy building small tools that solve real problems.
 
 ### 🔬 Currently exploring
 
-- building small command-line tools
 - self-hosting and personal infrastructure
+- developer-focused web applications
 - automation that runs without babysitting
 - thoughtful UX for developer tools
